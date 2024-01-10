@@ -200,6 +200,14 @@ header {
   padding: 0 35px 0 5px;
 }
 
+.input-box .icon{
+  position: absolute;
+  right: 8px;
+  font-size: 1.2em;
+  color: #162938;
+  ine-height: 57px;
+}
+
 .remember-forgot {
   font-size: .9em;
   color: #fff;
