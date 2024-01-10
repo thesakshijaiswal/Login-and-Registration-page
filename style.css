@@ -321,6 +321,12 @@ header {
     padding: 0 30px 0 5px;
   }
 
+  .input-box .icon{
+    font-size: 0.8em;
+    color: #162938;
+    line-height: 30px;
+  }
+
   .btn {
     height: 30px;
     font-size: 0.8em;
